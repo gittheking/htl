@@ -59,8 +59,8 @@ var y = function() {
   - One Green box 100x100 pixels
   - The green should be centered inside of the red box
   - The red and blue boxes should not overlap
-    * [HTML]('index.html')
-    * [CSS]('style.css')
+    * [HTML](index.html)
+    * [CSS](style.css)
 
 ## Caching and Analytics
 
