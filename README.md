@@ -81,7 +81,7 @@ var y = function() {
 - Cookies allow for the site currently being accessed to see what other pages on it's own site the user has visited - this is great for suggesting related pages and increases user retention.
 
 #### List additional tracking techniques that could be collected with the use of a `<script>` tag instead of an `<img>` tag.
-- Script tags will allow a tracking company to quite literally track a user's every movement with event listeners. Event listeners could tell tracking companies how many times a user moused over their ad and for how long, how long it took from load time for a user to click the [x]/'close' button when a pop up advertisement comes up, every link that is clicked on the page, etc. All of these events can be sent back to a trackign companies servers for analysis of user behavior which results in targetted ads. 
+- Script tags will allow a tracking company to quite literally track a user's every movement with event listeners. Event listeners could tell tracking companies how many times a user moused over their ad and for how long, how long it took from load time for a user to click the [x]/'close' button when a pop up advertisement comes up, every link that is clicked on the page, etc. All of these events can be sent back to a tracking company's servers for analysis of user behavior which results in targetted ads. 
 
 ## Checking if image is viewable every 2 seconds
 Using JQuery:
