@@ -1,0 +1,19 @@
+.red {
+  width: 200px;
+  height: 200px;
+  background-color: red;
+}
+.green {
+  width: 100px;
+  height: 100px;
+  margin: auto;
+  background-color: green;
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+}
+.blue {
+  width: 200px;
+  height: 200px;
+  background-color: blue;
+}
